@@ -1,0 +1,4 @@
+Arrondissement de Nemours n'existe pas ==> District !
+Détecter les erreurs : si arrondissement + an VIII (ou 1800)==> Arrondissement
+
+Les districts disparaissent de la législation en 1795[4],[note 1] et sont remplacés par les arrondissements le 17 février 1800. 
