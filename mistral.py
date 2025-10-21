@@ -68,7 +68,7 @@ def main():
     entries_dict = json.loads(entries.choices[0].message.content)
     entry_list = Communes(**entries_dict)
 
-    with open(f"output_test.json", 'w', encoding='utf-8') as f:
+    with open(f"output/output_test.json", 'w', encoding='utf-8') as f:
         json.dump(entry_list.model_dump(), f, ensure_ascii=False, indent=2)
     print(entries.choices[0].message.content)
     return "Success ! \n \n \n"
