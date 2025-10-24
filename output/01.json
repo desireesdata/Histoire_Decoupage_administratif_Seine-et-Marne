@@ -1,0 +1,133 @@
+{
+  "liste_des_communes": [
+    {
+      "nom": "Achères-la-Forêt",
+      "cantons": [
+        {
+          "nom": "la Chapelle-la-Reine",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "La Chapelle-Egalité",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "la Chapelle-la-Reine",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": "devient Achères-la-Forêt par le décret du 17 juillet 1926."
+    },
+    {
+      "nom": "Amponville",
+      "cantons": [
+        {
+          "nom": "Beaumont",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "la Chapelle-la-Reine",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "la Chapelle-la-Reine",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": "- Réunion de la commune de Jacqueville à la commune d'Amponville par ordonnance du 12 mai 1841. - Modifications aux circonscriptions territoriales entre Amponville et Larchant par décret du 7 février 1948. - Opération de remembrement. Modifications des limites territoriales séparant la commune d'Amponville de celles de la Chapelle-la-Reine, Fromont, Guercheville, Larchant et Rumont, même canton et arrondissement, par arrêté du 30 avril 1956."
+    },
+    {
+      "nom": "Amillis",
+      "cantons": [
+        {
+          "nom": "la Ferté-Gaucher",
+          "date": "1790",
+          "district": {
+            "nom": "Rozoy",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Coulommiers",
+          "date": "An VIIT",
+          "district": null,
+          "arrondissement": {
+            "nom": "Coulommiere",
+            "date": "An VIIT"
+          }
+        }
+      ],
+      "texte_de_loi": null
+    },
+    {
+      "nom": "Andrezel",
+      "cantons": [
+        {
+          "nom": "Chaumes",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Mormant",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIIT"
+          }
+        }
+      ],
+      "texte_de_loi": "Ordonnance du 31 août 1832, fixant la limite entre les communes de Guignes et Andrezel (même canton). Ordonnance du 12 juin 1835, fixant la limite entre les communes d'Andrezel et Champeaux (même canton). Opération de remembrement, Modifications des limites territoriales des communes d'Andrezel et de Yélles, même canton et arrondissement, par arrêté du 14 décembre 1957."
+    },
+    {
+      "nom": "Annet-Sur-Marne",
+      "cantons": [
+        {
+          "nom": "Claye-Soullly",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": null
+    }
+  ]
+}

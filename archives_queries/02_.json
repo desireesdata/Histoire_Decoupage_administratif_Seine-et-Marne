@@ -1,0 +1,370 @@
+{
+  "liste_des_communes": [
+    {
+      "nom": "ARBONNE - La Foret",
+      "cantons": [
+        {
+          "nom": "Perthes",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun-sud",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": "Decret ARBONNE. La. FORET faw decuet du 8.2.1974. Deiect du 28 betolnu 1975 fortant creation' du Canton de Parthen-su-Galliais, comprenant la commune ARBONNE. La. FORET."
+    },
+    {
+      "nom": "ARGENTIERES",
+      "cantons": [
+        {
+          "nom": "Chaumes",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Marment",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": "Ordonnance du 8 avril 1832, fixant la limite entre les communes d'Argentières et Beauvoir (même canton)."
+    },
+    {
+      "nom": "ARMENTIERES - en - Brie",
+      "cantons": [
+        {
+          "nom": "Lizy-sur-Oureq",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": "Pend la section d'Isles-les-Meldeuses érigée en commune distincte par arrêté du 17 avril 1906. Le nom d'Armentières-en-Brie a été substitué à celui d'Armentières par décret du 27 avril 1937."
+    },
+    {
+      "nom": "AUBEPIERRE",
+      "cantons": [
+        {
+          "nom": "Marmant",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": "Loi du 29 mai 1834, fixant les limites entre les comunes de Courpalay, ancien arrondissement de Coulommiers, et d'Aubepierre, arrondissement de Melun. Réunion de la comune de Pequeux (canton de Homant) à celle d'Aubepierre par ordonnance du 3 janvier 1839, Fusion des comunes de Aubepierre et Uzouer-le-Repoc et création de la commune associée de Ozouer-la-Repas, par arrété préfectoral du 31 octobre 1972"
+    },
+    {
+      "nom": "AUBIGNY",
+      "cantons": [
+        {
+          "nom": "Melun",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun et Maincy",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Melun-nord",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": "réunle à la commune de Montereau-sur-le-Jard par ordonnance du 22 mars 1842,"
+    },
+    {
+      "nom": "ARVILLE",
+      "cantons": [
+        {
+          "nom": "Beaumont",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Chateau-Landon",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": "Création d'un district entre les communes d'Aryille, Beainont-du-Gâtinais, Gironville, Ichy, Obsonville, par arrété préfectoral du 22 août 1973. Le distnict dont le siège est fixé à la mainle de Beauront-du-Gâtinais prend le nom de \"District de Beauront-du-Gâtinais\"."
+    },
+    {
+      "nom": "ATTILLY",
+      "cantons": [
+        {
+          "nom": "Brie-Comte-Robert",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": "Réunion de la commune d'Attilly à celle de Férolles (canton de Brie) pour former la commune de Férolles-Attilly, par décret du 3 août 1808."
+    },
+    {
+      "nom": "AUFFERVILLE",
+      "cantons": [
+        {
+          "nom": "Beaumont",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Chatteau-Landon",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": "1926 - Arrond. de Melun."
+    },
+    {
+      "nom": "AUGERS - en - Brie",
+      "cantons": [
+        {
+          "nom": "Augers",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Villiers-Saint-Georges",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": "Ordonnance du 19 octobue 1835, fixant la limite entre les communes d'Augers et Champocuelle (même canton), Deviant Augers-en-Brie par arrêté du 17 juillet 1926."
+    },
+    {
+      "nom": "AULNOY",
+      "cantons": [
+        {
+          "nom": "Coulommiers",
+          "date": "1790",
+          "district": {
+            "nom": "Rozoy",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": "Ordonnance du 9 novembre 1834, fixant la limite entre les comnnes d'Aulnoy et de Saint-Germain-sous-Boue (même canton), 1926 - Arrond, de Meaux."
+    },
+    {
+      "nom": "AVON",
+      "cantons": [
+        {
+          "nom": "Fontainebleau",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": "Arrêté du 14 février 1868, prescrivant que le chemin du Roussillon fere. partie de la commune de Fontainebleau et non de la comnune d'Avon. Eriation du diatuct\"Heize des. Foret\"groupant les commune de Avon, Boon. le. For. Fontainelleau, Heize, Ota huzecue atillaine. s. saine at deunt la uife entfere dlu uusiride. Fontainellian, pance, te BABY frefectoratil de 3.1.7-1444."
+    },
+    {
+      "nom": "BABY",
+      "cantons": [
+        {
+          "nom": "Bray-sur-Seine",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": "Création d'un district groupant les communes de Baby, Villenauxe-laPetite, Balloy, Gravon, Bazoches-lès-Bray, Bray-sur-Seine, Jaulnes, Montigny-le-Guesdier, Mousseaux-lès-Bray, Mouy-sur-Seine, Saint-Sauveur-lès-Bray, Chalmaison, Everly, Fontaine-Fourches, Gouaix, Grisy-sur-Seine, Hermé, Noyen-sur-Seine, Les Ormes-sur-Voulzie, Passy-sur-Saine, Villuis, Villiers-sur-Seine, par arrêté préfectoral du 15 octobre 1973. Le district dont le siège est fixé à la mairie de Bray-sur-Seine, prent le nom de \"district du canton de Bray-surSeine\"."
+    },
+    {
+      "nom": "BAGNEAUX - sur - Eoring",
+      "cantons": [
+        {
+          "nom": "Château-Landon",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": "Ordonnance du 25 octobre 1826, fixant la limite entre les commnes de Poligny et Bagneaux, ancien arrondissement de Fontainebleau (même canton). Deviant Bagneaux-sur-Loing par arrêté du 11 novembre 1911."
+    },
+    {
+      "nom": "BAILLY-CARROIS",
+      "cantons": [
+        {
+          "nom": "Mornant",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": "Ordonnance du 7 novembre 1830, fixant la limite entre les communes de Nangis, arrondissement de Provins, et Bailly-Carrois, arrondissement de Melun, Opération de remembrement, Modifications des limites territoriales des communes de Nangis (canton de Nangis, arrondissement de Provins) et de BaillyCarrois (canton de Mornant, arrondissement de Melun), par arrêté du 20 octobte 1960. Fusion des communes de Bailly-Carrois et Grandpuits et création de la commune associée de Bailly-Carrois, par arrêté préfectoral du 30 novembre 1972."
+    },
+    {
+      "nom": "BAILLY-BOMAINVILLIERS",
+      "cantons": [
+        {
+          "nom": "Crécy-en-Brie",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": "Ordonnance du 27 septembre 1833, fixant la limite entre les communes de Saint-Germain-les-Couilly, Coutevrou1t, Magyly-le-Mongre et BaillyRomainvilliers (même canton)."
+    },
+    {
+      "nom": "BALLOY",
+      "cantons": [
+        {
+          "nom": "Bray-sur-Seine",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": "Création d'un district groupant les communes de Baby, Villenauze-laPetite, Bailoy, Gravon, Bazoches-lès-Bray, Bray-sur-Seine, Jeulnes, Montigny-le-Guesdier, Moussaux-lès-Bray, Mouy-sur-Seine, Saint-Sauveur-1ès-Bray; Chalmaison, Everly, Fontaine-Fourches, Gouaix, Grisy-sur-Seine, Hémé, Neyen-sur-Seine, Les Ormes-sur-Voulzie, Passy-sur-Seine, Villuis, Villiers-sur-Seine, par arrêté préfectoral du 15 octobre 1973, Le district dont le siége est fixé à la mairie de Bray-sur-Seine, prend le nom de \"distriet du canton de Bray-sur-Seine\"."
+    },
+    {
+      "nom": "BANNOST",
+      "cantons": [
+        {
+          "nom": "Jouy-le-Châtel",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nangis",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": "Arrêté du 5 août 1830, fixant la limite entre les communes de Bannost et Villegagnon (même canton), Fusion des communes de Bannost et Villegagnon avec création de la commune associée de Villegagnon, par arrêté préfectoral, du 27 décembre 1972."
+    },
+    {
+      "nom": "BARBEY",
+      "cantons": [
+        {
+          "nom": "Montereau-fault-Yonne",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        }
+      ],
+      "texte_de_loi": "An VIII - Arrond. de Nemours. An IX, - Arrond. de Fontainebleau. 1926 - Arrond. de Provins."
+    },
+    {
+      "nom": "BARBIZON",
+      "cantons": [
+        {
+          "nom": "Melun-sud",
+          "date": "1903",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1903"
+          }
+        }
+      ],
+      "texte_de_loi": "Evection en commune de la section de Barbizon distraite de la commune de Chailliy-en-Bière (canton de Melun-sud) par la loi du 20 novenbre 1903. Decect du 28 (celobre 1975 fortant exatios du canton de Parthes en. gationais et comfrenant. la commune de BARBizon"
+    }
+  ]
+}

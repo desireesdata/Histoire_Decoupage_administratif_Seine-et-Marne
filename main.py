@@ -11,7 +11,8 @@ model = "magistral-small-latest"
 # model = "ministral-8b-latest"
 client = Mistral(api_key=api_key)
 
-with open('ocr/ocr.txt', 'r') as f:
+name_file = "04"
+with open(f'ocr/{name_file}.md', 'r') as f:
     ocr = f.read()
 
 with open('prompt.txt', 'r') as f:
@@ -42,7 +43,7 @@ class Canton(BaseModel):
 class Commune(BaseModel):
     nom : str = Field(..., description="Nom d'une commune de Seine-et-Marne")
     cantons : List[Canton] = Field(..., description="Liste des cantons auxquels se rattache la commune")
-    texte_de_loi : Union[str, None]
+    texte_de_loi : Union[List[str], None] = Field(..., description="Indiquer in-extenso les mentions de lois, leur dates, leurs effets.")
 
 class Communes(BaseModel):
     liste_des_communes : List[Commune]  = Field(..., description="Liste de toutes les communes de Seine-et-Marne")
@@ -62,13 +63,13 @@ def main():
             },
         ],
         response_format=Communes,
-        max_tokens=ocr_l*3,
+        max_tokens=ocr_l*4,
         temperature=0
     )
     entries_dict = json.loads(entries.choices[0].message.content)
     entry_list = Communes(**entries_dict)
 
-    with open(f"output/output_test.json", 'w', encoding='utf-8') as f:
+    with open(f"output/{name_file}.json", 'w', encoding='utf-8') as f:
         json.dump(entry_list.model_dump(), f, ensure_ascii=False, indent=2)
     print(entries.choices[0].message.content)
     return "Success ! \n \n \n"
