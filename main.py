@@ -11,8 +11,8 @@ model = "magistral-small-latest"
 # model = "ministral-8b-latest"
 client = Mistral(api_key=api_key)
 
-name_file = "04"
-with open(f'ocr/{name_file}.md', 'r') as f:
+name_file = "06"
+with open(f'ocr/{name_file}_b.md', 'r') as f:
     ocr = f.read()
 
 with open('prompt.txt', 'r') as f:
@@ -63,13 +63,13 @@ def main():
             },
         ],
         response_format=Communes,
-        max_tokens=ocr_l*4,
+        max_tokens=ocr_l*3,
         temperature=0
     )
     entries_dict = json.loads(entries.choices[0].message.content)
     entry_list = Communes(**entries_dict)
 
-    with open(f"output/{name_file}.json", 'w', encoding='utf-8') as f:
+    with open(f"output/{name_file}_b.json", 'w', encoding='utf-8') as f:
         json.dump(entry_list.model_dump(), f, ensure_ascii=False, indent=2)
     print(entries.choices[0].message.content)
     return "Success ! \n \n \n"

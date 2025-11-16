@@ -1,0 +1,1957 @@
+{
+  "liste_des_communes": [
+    {
+      "nom": "BARCY",
+      "cantons": [
+        {
+          "nom": "Lizy-sur-Ourq",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Meaux",
+          "date": "1929",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "1929"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 8 juin 1834, fixant la limite entre les communes de Bary et Etrepilly.",
+        "Rattachée au canton de Meaux par arrêté du 12 avril 1929.",
+        "Décret du 28 octobre 1975, fixant le canton de Meaux-Nord, comprenant la commune de BARCY."
+      ]
+    },
+    {
+      "nom": "BASSEVELLE",
+      "cantons": [
+        {
+          "nom": "La Ferté-sous-Jouarre",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance royale du 19 mars 1829, fixant la limite entre la commune de Bassevalle, arrondissement de Meaux et celle d'Hondevilliers, ancien arrondissement de Coulommiers."
+      ]
+    },
+    {
+      "nom": "BAZOCHES-LES-BRAY",
+      "cantons": [
+        {
+          "nom": "Bray-sur-Seine",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Provins",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Création d'un district groupant les communes de Baby, Villenauxe-la-Petite, Balloy, Gravon, Bazoches-lès-Bray, Bray-sur-Seine, Jaulnes, Montigny-le-Guesdier, Mousseaux-lès-Bray, Mouy-sur-Seine, Saint-Sauveur-lès-Bray, Chalmaison, Everly, Fontaine-Fourches, Gouaix, Grisy-sur-Seine, Hermé, Noyen-sur-Seine, Villuis, Villiers-sur-Seine, par arrêté préfectoral du 15 octobre 1973. Le district dont le siège est fixé à la mairie de Bray-sur-Seine, prend le nom de 'district du canton de Bray-sur-Seine'."
+      ]
+    },
+    {
+      "nom": "BEAUROURG",
+      "cantons": [
+        {
+          "nom": "Lagny",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Les communes de Croissy et Beaubourg (même canton) ont été réunies par arrêté du 1er floréal an XII."
+      ]
+    },
+    {
+      "nom": "BEAUCHERY",
+      "cantons": [
+        {
+          "nom": "Augers",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Villiers-Saint-Georges",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 19 octobre 1835, fixant la limite entre les communes de Beauchery et Saint-Martin-des-Champs (même canton).",
+        "Fusion des communes de Beauchery et Saint-Martin-Chennetron avec création de la commune associée de Saint-Martin-Chernetron (canton de Villiers-Saint-Georges), par arrêté préfectoral du 15 décembre 1972.",
+        "Suppression de la commune associée de Saint-Martin-Chennetron, la commune prenant le nom de Beauchery-Saint-Martin, par arrêté préfectoral du 30 décembre 1874."
+      ]
+    },
+    {
+      "nom": "BEAUMONT-DU-GÂTINAIS",
+      "cantons": [
+        {
+          "nom": "Beaumont",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Château-Landon",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Loi du 19 juin 1835, fixant la limite des départements du Loiret et de Seine-et-Marne, entre les communes de Boèsse et de Beaumont.",
+        "Prend le nom de Beaumont-du-Gâtinais, par arrêté du 21 décembre 1895.",
+        "Création d'un district entre les communes d'Auville, Beaumont-du-Gâtinais, Gironville, Ichy, Obsonville, par arrêté préfectoral du 22 août 1973. Le district dont le siège est fixé à la mairie de Beaumont-du-Gâtinais prend le nom de 'district de Beaumont-du-Gâtinais'."
+      ]
+    },
+    {
+      "nom": "BEAUJEUL",
+      "cantons": [
+        {
+          "nom": "Coulommiers",
+          "date": "1790",
+          "district": {
+            "nom": "Rozoy",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Coulommiers",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Coulommiers",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BEAUVOIR",
+      "cantons": [
+        {
+          "nom": "Chaumes",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Morvant",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 8 avril 1832, fixant la limite entre les communes d'Érgentières et Beauvoir (même canton)."
+      ]
+    },
+    {
+      "nom": "BELLOT",
+      "cantons": [
+        {
+          "nom": "Rebais",
+          "date": "1790",
+          "district": {
+            "nom": "Rozoy",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Coulommiers",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Coulommiers",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Meaux",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BERNAY-EN-BRIE",
+      "cantons": [
+        {
+          "nom": "Rozoy",
+          "date": "1790",
+          "district": {
+            "nom": "Rozoy",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Coulommiers",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Coulommiers",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 3 juin 1837, fixant la limite entre les communes de Bernay et Courpalay, ancien arrondissement de Coulommiers (même canton).",
+        "Devient Bernay-en-Brie, par arrêté du 1er août 1813.",
+        "Fusion des communes de Bernay-en-Brie et de Vilbert avec création de la commune associée de Vilbert, par arrêté préfectoral du 31 décembre 1971."
+      ]
+    },
+    {
+      "nom": "BETON-BAZOCHES",
+      "cantons": [
+        {
+          "nom": "Jouy-le-Châtel",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Villiers-Saint-Georges",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Loi du 25 mai 1835, fixant les limites entre les communes de Leudon, ancien arrondissement de Coulommiers, et de Beton-Bazoches, arrondissement de Provins."
+      ]
+    },
+    {
+      "nom": "BEZALLES",
+      "cantons": [
+        {
+          "nom": "Jouy-le-Châtel",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Provins",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Nangis",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BLANDY",
+      "cantons": [
+        {
+          "nom": "Le Châtelet-en-Brie",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 7 décembre 1825, fixant la limite entre les communes de Blandy et Champeaux (canton de Mornant).",
+        "Arrêté du 29 mai 1829 fixant les limites entre les communes de Blandy et Saint-Méry (canton de Mornant).",
+        "Arrêté du 6 octobre 1960 fixant les limites entre les communes de Champeaux (canton de Mornant) et Blandy ; de Fouju (canton de Mornant), Moisenay et Blandy (canton du Châtelet-en-Brie).",
+        "Création d'un district entre les communes de Blandy, Le Châtelet-en-Brie, Châtillon-la-Borde, Les Écorennes, Féroly, Machault, Moisénay, Ramfou et Sivry-Courtry, par arrêté préfectoral du 8 février 1973. Le district dont le siège est fixé à la mairie du Châtelet-en-Brie, prend le nom de 'District de la région du Châtelet-en-Brie'."
+      ]
+    },
+    {
+      "nom": "BLENNES",
+      "cantons": [
+        {
+          "nom": "Voulx",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Lorrez-le-Bocage",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1826",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1826"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance royale du 18 juillet 1831, fixant la limite entre la commune de Blennes, ancien arrondissement de Fontainebleau et celle de Vallery, arrondissement de Sens, département de l'Yonne."
+      ]
+    },
+    {
+      "nom": "BOTSDON",
+      "cantons": [
+        {
+          "nom": "Jouy-le-Châtel",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Provins",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Nangis",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BOIS-LE-ROI",
+      "cantons": [
+        {
+          "nom": "Fontainebleau",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Fontainebleau",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Création du district groupant les communes de Avon, Samois-sur-Seine, Fontainebleau, Montigny-sur-Loing, Arbonne-la-Forêt, Villebéon, Ury, et démembrement du canton de Fontainebleau, par arrêté préfectoral du 15 octobre 1973. Le district dont le siège est fixé à la mairie de Fontainebleau, prend le nom de 'district de Fontainebleau'."
+      ]
+    },
+    {
+      "nom": "BOISSETTES",
+      "cantons": [
+        {
+          "nom": "Vert-Saint-Denis",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Boissise-la-Bertrand",
+          "date": "1791",
+          "district": null,
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Melun-Nord",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Arrêté du 10 mars 1827, fixant les limites entre les communes de Boissise-la-Bertrand et Boissettes (même canton).",
+        "Ordonnance du 16 mai 1827, fixant la limite entre les communes de Boissise-la-Bertrand et Boissettes (même canton).",
+        "Décret du 28 octobre 1975, fixant le canton de Savigny-le-Temple, comprenant la commune de Boissettes."
+      ]
+    },
+    {
+      "nom": "BOISSIERE (LA)",
+      "cantons": [
+        {
+          "nom": "Coulommiers",
+          "date": "1790",
+          "district": {
+            "nom": "Rozoy",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Coulommiers",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Coulommiers",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Commune de l'an IV, rattachée à la commune de Saints (même canton) par ordonnance du 14 juin 1841."
+      ]
+    },
+    {
+      "nom": "BOISSISE-LA-BERTRAND",
+      "cantons": [
+        {
+          "nom": "Vert-Saint-Denis",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Boissise-la-Bertrand",
+          "date": "1791",
+          "district": null,
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Melun-Nord",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Arrêté du 9 mars 1827, fixant les limites entre les communes du Mée et de Boissise-la-Bertrand, et de Vert-Saint-Denis et Boissise-la-Bertrand (même canton).",
+        "Arrêté du 10 mars 1827, fixant les limites entre les communes de Boissise-la-Bertrand et Boissettes (même canton).",
+        "Ordonnance du 16 mai 1827, fixant la limite entre les communes de Boissise-la-Bertrand et Boissettes (même canton).",
+        "Décret du 28 octobre 1975, fixant le canton de Savigny-le-Temple, comprenant la commune de Boissise-la-Bertrand."
+      ]
+    },
+    {
+      "nom": "BOISSISE-LE-ROI",
+      "cantons": [
+        {
+          "nom": "Vert-Saint-Denis",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Boissise-la-Bertrand",
+          "date": "1791",
+          "district": null,
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Melun-Sud",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 29 octobre 1828, fixant la limite entre les communes de Boissise-le-Roi et Saint-Sauveur (même canton).",
+        "Ordonnance du 15 avril 1829, fixant la limite entre les communes de Boissise-le-Roi et Villiers-en-Bière (même canton).",
+        "Décret du 28 octobre 1975, fixant le canton de Perthes-en-Gâtinais, comprenant la commune de Boissise-le-Roi."
+      ]
+    },
+    {
+      "nom": "BOISSY-AUX-CAILLES",
+      "cantons": [
+        {
+          "nom": "La Chapelle-la-Reine",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "La Chapelle-Egalité",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "La Chapelle-la-Reine",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BOISSY-LE-CHATEL",
+      "cantons": [
+        {
+          "nom": "Coulommiers",
+          "date": "1790",
+          "district": {
+            "nom": "Rozoy",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Coulommiers",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Coulommiers",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Meaux",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BOITRON",
+      "cantons": [
+        {
+          "nom": "Rebais",
+          "date": "1790",
+          "district": {
+            "nom": "Rozoy",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Coulommiers",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Coulommiers",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Meaux",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BOMBON",
+      "cantons": [
+        {
+          "nom": "Mornant",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 14 mai 1826, fixant la limite entre les communes de Bréau et Bombon (même canton).",
+        "Arrêté du 9 novembre 1832, fixant la limite entre les communes de Bombon et La Chapelle (même canton)."
+      ]
+    },
+    {
+      "nom": "BOUGLIONY",
+      "cantons": [
+        {
+          "nom": "Château-Landon",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Fontainebleau",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BOULANCOURT",
+      "cantons": [
+        {
+          "nom": "Beaumont",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "La Chapelle-la-Reine",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BOULUURS",
+      "cantons": [
+        {
+          "nom": "Crécy-en-Brie",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BOURRON-MARLOTTE",
+      "cantons": [
+        {
+          "nom": "Moret",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Nemours",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Prend le nom de Bourron-Marlotte par décret du 24 octobre 1919."
+      ]
+    },
+    {
+      "nom": "BOUTIGNY",
+      "cantons": [
+        {
+          "nom": "Crécy-en-Brie",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 5 mars 1833 fixant la limite entre les communes de Boutigny et Saint-Fiacre (même canton).",
+        "Arrêté du 30 mai 1833 fixant la limite entre les communes de Boutigny et Coulommes (même canton)."
+      ]
+    },
+    {
+      "nom": "BRANSLES",
+      "cantons": [
+        {
+          "nom": "Egreville",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Château-Landon",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BRAY-SUR-SEINE",
+      "cantons": [
+        {
+          "nom": "Bray-sur-Seine",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Provins",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Création d'un district groupant les communes de Baby, Villenauxe-la-Petite, Balloy, Gravon, Bazoches-lès-Bray, Bray-sur-Seine, Jaulnes, Montigny-le-Guesdier, Mousseaux-lès-Bray, Mouy-sur-Seine, Saint-Sauveur-lès-Bray, Chalmaison, Everly, Fontaine-Fourches, Gouaix, Grisy-sur-Seine, Hermé, Noyen-sur-Seine, Villuis, Villiers-sur-Seine, par arrêté préfectoral du 15 octobre 1973. Le district dont le siège est fixé à la mairie de Bray-sur-Seine, prend le nom de 'district du canton de Bray-sur-Seine'."
+      ]
+    },
+    {
+      "nom": "BREAU",
+      "cantons": [
+        {
+          "nom": "Mornant",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Le Châtelet-en-Brie",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Mornant",
+          "date": "1817",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1817"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Commune distraite du canton du Châtelet-en-Brie, au profit du canton de Mornant par ordonnance du 30 juillet 1817.",
+        "Ordonnance du 14 mai 1826, fixant la limite entre les communes de Bréau et Bombon (même canton)."
+      ]
+    },
+    {
+      "nom": "BRIE-COMTE-ROBERT",
+      "cantons": [
+        {
+          "nom": "Brie-Comte-Robert",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "La commune de Brie-Comte-Robert, auparavant Brie-la-Ville, par arrêté municipal du 28 octobre 1792 prend le nom de Brie-sur-Hyères par arrêté municipal du 9 novembre 1793.",
+        "Brie-sur-Hyères ne reprend son nom d'origine, Brie-Comte-Robert, que sous la restauration (1814)."
+      ]
+    },
+    {
+      "nom": "BROSSE-MONTCEAUX (LA)",
+      "cantons": [
+        {
+          "nom": "Montereau-fault-Yonne",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Fontainebleau",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Provins",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BROU-SUR-CHANTEREINE",
+      "cantons": [
+        {
+          "nom": "Lagny",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Chelles",
+          "date": "1964",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "1964"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 12 janvier 1825, fixant la limite entre les communes de Brou et Chelles (même canton).",
+        "Rattachement au territoire de Brou d'une portion du territoire de Chelles (canton de Lagny), par décret du 5 juillet 1910.",
+        "Prend le nom de Brou-sur-Chantereine par arrêté du 1er mars 1911.",
+        "Commune distraite du canton de Lagny au profit du canton de Chelles, par décret du 29 juillet 1964.",
+        "Décret du 28 octobre 1975, fixant le canton de Lagny-sur-Marne, comprenant la commune de BROU-SUR-CHANTEREINE."
+      ]
+    },
+    {
+      "nom": "BURCY",
+      "cantons": [
+        {
+          "nom": "Beaumont",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "La Chapelle-la-Reine",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1826",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1826"
+          }
+        }
+      ],
+      "texte_de_loi": []
+    },
+    {
+      "nom": "BUSSIERES",
+      "cantons": [
+        {
+          "nom": "La Ferté-sous-Jouarre",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Réunion du hameau de Montcel de la commune de Bussières à la commune de Hondevilliers (canton de Rebais) par la loi du 2ème jour complémentaire, an V.",
+        "Distraction de la section des hameaux de la commune de Bussières et de sa réunion à celle de Saint-Ouen (canton de Rebais), (partage des biens), par la loi du 1er juillet 1865.",
+        "Réunion à la commune de Bussières du hameau de Bois-Mantin dépendant de la commune de Saacy (canton de la Ferté-sous-Jouarre), par décret du 27 décembre 1876."
+      ]
+    },
+    {
+      "nom": "BUSSY-SAINT-GEORGES",
+      "cantons": [
+        {
+          "nom": "Lagny",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Arrêté du 6 juin 1826, fixant la limite entre les communes de Bussy-Saint-Georges (canton de Lagny) et Favières (canton de Tournan-en-Brie).",
+        "Ordonnance du 15 août 1827, fixant les limites entre les communes de Jossigny et Bussy-Saint-Georges (même canton).",
+        "Modifications des limites territoriales des communes de Bussy-Saint-Georges et de Ferrières, tous deux même canton, par arrêté du 27 avril 1963.",
+        "Décret du 28 octobre 1975, fixant le canton de Torcy, comprenant la commune de Bussy-Saint-Georges."
+      ]
+    },
+    {
+      "nom": "BUSSY-SAINT-MARTIN",
+      "cantons": [
+        {
+          "nom": "Lagny",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "La paroisse de Saint-Germain-des-Noyers a été réunie à la commune de Bussy-Saint-Martin en 1792.",
+        "Arrêté du 6 juin 1826, fixant les limites entre les communes de Bussy-Saint-Martin et Collégien (même canton).",
+        "Ordonnance du 15 août 1827, fixant la limite entre les communes de Bussy-Saint-Martin et Torcy (même canton).",
+        "Perd le hameau du Petit-Bussy, réuni à la commune de Collégien (même canton), par arrêté du 20 janvier 1953.",
+        "Décret du 28 octobre 1975, fixant le canton de Torcy, comprenant la commune de Bussy-Saint-Martin."
+      ]
+    },
+    {
+      "nom": "BUTHIERS",
+      "cantons": [
+        {
+          "nom": "La Chapelle-la-Reine",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "La Chapelle-Egalité",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "La Chapelle-la-Reine",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Réunion de la commune d'Herbeauvilliers à la commune de Buthiers, par ordonnance royale du 12 mai 1841.",
+        "Opération de remembrement. Modifications des limites territoriales séparant cette commune de celle de Boulancourt (même canton), par arrêté du 30 avril 1956."
+      ]
+    },
+    {
+      "nom": "CANNES-ÉCLUSE",
+      "cantons": [
+        {
+          "nom": "Montereau-fault-Yonne",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Fontainebleau",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Provins",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Prend désormais le nom de Cannes-Écluse, par arrêté du 3 août 1886."
+      ]
+    },
+    {
+      "nom": "CARNETIN",
+      "cantons": [
+        {
+          "nom": "Lagny",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Claye-Souilly",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Lagny",
+          "date": "1951",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "1951"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Distraite de ce canton et rattachée à celui de Lagny (même canton), par décret du 13 juillet 1951."
+      ]
+    },
+    {
+      "nom": "CELLE-SOUS-MORET",
+      "cantons": [
+        {
+          "nom": "Moret-sur-Loing",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Fontainebleau",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Arrêté du 8 juillet 1834, fixant la limite entre les communes de Champagne et la Celle-sous-Moret, ancien arrond. de Fontainebleau (même canton).",
+        "Ordonnance du 31 décembre 1834, fixant la limite entre les communes de la Celle-sous-Moret et Vernou, ancien arrond. de Fontainebleau (même canton).",
+        "Devient La Celle-sur-Seine, par arrêté du 19 juillet 1902."
+      ]
+    },
+    {
+      "nom": "CELLE-SUR-MORIN",
+      "cantons": [
+        {
+          "nom": "Faremoutiers",
+          "date": "1790",
+          "district": {
+            "nom": "Rozoy",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Coulommiers",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Coulommiers",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Coulommiers",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Coulommiers",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Meaux",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 2 mars 1837, fixant la limite entre les communes de Guérard et de la Celle (même canton)."
+      ]
+    },
+    {
+      "nom": "CELLE-SUR-SEINE",
+      "cantons": [
+        {
+          "nom": "Moret-sur-Loing",
+          "date": "1902",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "1902"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Le nom de la Celle-sur-Seine a substitué celui de la Celle-sous-Moret par décret du 19 juillet 1902.",
+        "Fusion des communes de La Celle-sur-Seine et Vernou-sur-Seine, création de la commune de Vernou-la-Celle-sur-Seine, fixation de son chef-lieu à Vernou-sur-Seine et création de la commune associée de La Celle-sur-Seine. (Arr. Préf. du 31 décembre 1941).",
+        "Succession de la commune associée de la Celle, un an après la fusion des communes de la Celle-sur-Seine et Vernou-sur-Seine, par arrêté préfectoral du 28 février 1944."
+      ]
+    },
+    {
+      "nom": "CELY-EN-BIERE",
+      "cantons": [
+        {
+          "nom": "Perthes",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Melun-Sud",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Décret du 28 octobre 1945, fixant le canton de Perthes-en-Gâtinais, comprenant la commune de Cely-en-Bière."
+      ]
+    },
+    {
+      "nom": "CERNEUX",
+      "cantons": [
+        {
+          "nom": "Augers",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Provins",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Villiers-Saint-Georges",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Arrêté du 7 septembre 1839, fixant la limite entre les communes de Cerneux et Courtacon (même canton).",
+        "Une partie du territoire de la commune de Pierrelez supprimée a été réunie à Cerneux par arrêté préfectoral du 10 juin 1949.",
+        "Modification des limites territoriales des communes de Cerneux et d'Augers-en-Brie (même canton et arrondissement), ainsi que les communes de Cerneux et Courtacon (même canton et arrondissement), Cerneux et Sancy-lès-Provins, Cerneux et Vieux-Maisons, par arrêté du 5 juillet 1956."
+      ]
+    },
+    {
+      "nom": "CESSON",
+      "cantons": [
+        {
+          "nom": "Vert-Saint-Denis",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Boissise-la-Bertrand",
+          "date": "1791",
+          "district": null,
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Melun-Nord",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Arrêté du 10 mars 1827, fixant les limites entre les communes de Cesson et Savigny-le-Temple (même canton).",
+        "Ordonnance du 20 juin 1827, fixant la limite entre les communes de Cesson et Savigny-le-Temple (même canton).",
+        "Décret du 28 octobre 1945, fixant le canton de Savigny-le-Temple, comprenant la commune de Cesson."
+      ]
+    },
+    {
+      "nom": "CESSOY-EN-MONTOIS",
+      "cantons": [
+        {
+          "nom": "Donnemarie",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Provins",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Devient Cessoy-en-Montois par arrêté du 3 décembre 1936."
+      ]
+    },
+    {
+      "nom": "CHAILLY-EN-BIERE",
+      "cantons": [
+        {
+          "nom": "Perthes",
+          "date": "1790",
+          "district": {
+            "nom": "Melun",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Melun",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Melun-Sud",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Arrêté du 9 mars 1827, fixant les limites entre les communes de Chailly-en-Bière et Villiers-en-Bière (même canton).",
+        "Perd le hameau de Barbizon et une portion de territoire érigés en commune distincte dont le chef-lieu est fixé au village de Barbizon qui en portera le nom, par arrêté du 20 novembre 1903.",
+        "Décret du 28 octobre 1945, fixant le canton de Perthes-en-Gâtinais, comprenant la commune de Chailly-en-Bière."
+      ]
+    },
+    {
+      "nom": "CHAILLY-EN-BRIE",
+      "cantons": [
+        {
+          "nom": "Coulommiers",
+          "date": "1790",
+          "district": {
+            "nom": "Rozoy",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Coulommiers",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Coulommiers",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Meaux",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Ordonnance du 31 décembre 1834, fixant la limite entre les communes de Chailly, canton de Coulommiers et Marolles, canton de La Ferté-Gaucher (ancien arrond. de Coulommiers).",
+        "Loi du 17 juin 1846, changeant la circonscription des cantons de Coulommiers et de La Ferté-Gaucher, sur le territoire des communes de Chailly et Marolles."
+      ]
+    },
+    {
+      "nom": "CHAINTREAUX",
+      "cantons": [
+        {
+          "nom": "Egreville",
+          "date": "1790",
+          "district": {
+            "nom": "Nemours",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Nemours",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Nemours",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Château-Landon",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Fontainebleau",
+            "date": "An IX"
+          }
+        },
+        {
+          "nom": "Melun",
+          "date": "1926",
+          "district": null,
+          "arrondissement": {
+            "nom": "Melun",
+            "date": "1926"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Réunion de la commune de Lagerville (canton de Château-Landon) à celle de Chaintreaux, par ordonnance du 5 août 1842."
+      ]
+    },
+    {
+      "nom": "CHALAUTRE-LA-GRANDE",
+      "cantons": [
+        {
+          "nom": "Sourdun",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Provins",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        },
+        {
+          "nom": "Villiers-Saint-Georges",
+          "date": "An IX",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An IX"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Opération de remembrement. Modifications des limites territoriales des communes de Chalautre-la-Grande et de Léchelle (même canton), de Chalautre-la-Grande et de Saint-Martin-Chennetron (même canton), par arrêté du 14 décembre 1957."
+      ]
+    },
+    {
+      "nom": "CHALAUTRE-LA-PETITE",
+      "cantons": [
+        {
+          "nom": "Provins",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Provins",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Rattachement du hameau de Bouy (commune de Chalautre-la-Petite) à la commune de Soisy (canton de Bray), par la loi du 5 mars 1926.",
+        "Opération de remembrement. Nouvelles limites territoriales des communes de Chalautre-la-Petite, Poigny, Provins et Soisy-Bouy (même canton), par arrêté du 29 mars 1968."
+      ]
+    },
+    {
+      "nom": "CHALAUTRE-LA-REPOSTE",
+      "cantons": [
+        {
+          "nom": "Donnemarie-en-Montois",
+          "date": "1790",
+          "district": {
+            "nom": "Provins",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Provins",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Provins",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Réunion de la commune de Chalautre-la-Reposte à celle de Gurey-le-Châtel (canton de Donnemarie-en-Montois), par arrêté du 25 septembre 1968."
+      ]
+    },
+    {
+      "nom": "CHALIFERT",
+      "cantons": [
+        {
+          "nom": "Lagny",
+          "date": "1790",
+          "district": {
+            "nom": "Meaux",
+            "date": "1790"
+          },
+          "arrondissement": null
+        },
+        {
+          "nom": "Meaux",
+          "date": "An VIII",
+          "district": null,
+          "arrondissement": {
+            "nom": "Meaux",
+            "date": "An VIII"
+          }
+        }
+      ],
+      "texte_de_loi": [
+        "Arrêté du 10 mars 1827, fixant les limites entre les communes de Coupvray et Chalifert (même canton).",
+        "Décret du 28 octobre 1975, fixant le canton de Lagny-sur-Marne, comprenant la commune de CHALIFERT."
+      ]
+    }
+  ]
+}
